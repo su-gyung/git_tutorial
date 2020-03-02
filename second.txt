@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello
+
+second
+hi hello
+why?
+>>>>>>> issue1
